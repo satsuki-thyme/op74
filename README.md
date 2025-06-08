@@ -16,6 +16,9 @@
 - mm-op74-005.smmx: 魔物討伐
 - mm-op74-006.smmx: お忍びデート
 - mm-op74-007.smmx: 聖女覚醒
-- mm-op74-008.smmx: 学びと実践
+- mm-op74-008.smmx: 学びと交流と実践
 - mm-op74-009.smmx: パーティー
 - mm-op74-010.smmx: 主人公の欲求
+- mm-op74-011.smmx: 主人公の苦しい背景
+- mm-op74-012.smmx: 学びと交流と実践
+- mm-op74-013.smmx: 悪魔牛のとの戦闘
