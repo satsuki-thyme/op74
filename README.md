@@ -26,6 +26,7 @@
 - /Dropbox/simplemind/op74/mm-op74-012.smmx: 学びと交流と実践
 - /Dropbox/simplemind/op74/mm-op74-013.smmx: 悪魔牛のとの戦闘
 - /Dropbox/simplemind/op74/mm-op74-014.smmx: ヴァズダの狙い
+- /Dropbox/simplemind/op74/mm-op74-015.smmx: 王都の防備
 
 ### その他
 - notes.md: ノート
