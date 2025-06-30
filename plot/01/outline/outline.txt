@@ -70,6 +70,21 @@ li1 主人公が駆けつけて賊を気絶させる
 li3 ヴァズダが魔物を召喚する
 li1 ヴァズダと会う
 
+ep: 9
+mood: 
+mm: 
+li1 
+
+ep: 10
+mood: 
+mm: 
+li1 
+
+ep: 11
+mood: 
+mm: 
+li1 
+
 ep: 12
 mood: 
 mm: 
@@ -80,7 +95,55 @@ mood:
 mm: 
 水着回
 
+ep: 14
+mood: 
+mm: 
+li1 
 
+ep: 15
+mood: 
+mm: 
+li1 
+
+ep: 16
+mood: 
+mm: 
+li1 
+
+ep: 17
+mood: 
+mm: 
+li1 
+
+ep: 18
+mood: 
+mm: 
+li1 
+
+ep: 19
+mood: 
+mm: 
+li1 
+
+ep: 20
+mood: 
+mm: 
+li1 
+
+ep: 21
+mood: 
+mm: 
+li1 
+
+ep: 22
+mood: 
+mm: 
+li1 
+
+ep: 23
+mood: 
+mm: 
+li1 
 
 ep: 24
 mood: 
