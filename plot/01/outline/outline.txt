@@ -1,4 +1,5 @@
 ep: 1
+dec: 登場
 mood: 力を見せつける
 mm: 1
 li1 現れて、力を示して平伏せさせる
@@ -8,6 +9,7 @@ int 王との謁見[ref-018]
 li1 騎士隊長が力を見ると言いだす
 
 ep: 2
+dec: 力試し
 mood: 力を見せつける, 戦闘（勝ち）
 mm: 2
 li1 騎士と剣の勝負[ref-002]
@@ -18,7 +20,8 @@ int 王への報告[ref-019]
 li3 貴族は面白くない
 
 ep: 3
-mood: 苦難の過去
+dec: 苦難の過去
+mood: 王宮の高貴さ
 mm: 4, 11
 int 王に黙って超界者を召喚したことに怒る
 int 各地で召喚の儀が行われるとの情報[ref-004]
@@ -28,6 +31,7 @@ li1 背景
 lov 苦しげな主人公を抱きしめる姫
 
 ep: 4
+dec: パーティー
 mood: 動きだす影, 優越
 mm: 9
 li1 パーティー[ref-010]
@@ -38,6 +42,7 @@ li2 ライバルはそこそこ人気で気分よく語る
 li3 貴族は焦っている[ref-012]
 
 ep: 5
+dec: 魔物討伐
 mood: 不思議, 優越
 mm: 5
 li1 魔物討伐で密かな実力を見せる[ref-005]
@@ -51,18 +56,21 @@ li2 ライバルは妖精に捕縛され解放される
 li3 実情を知って焦る貴族[ref-021]
 
 ep: 6
+dec: アカデミック
 mood: アカデミック, 実績
 mm: 12, 8
 li1 学びと交流と実践
 li3 貴族が悪魔と契約する[ref-013]
 
 ep: 7
+dec: バトル
 mood: 戦闘（勝ち）
 mm: 13
 li1 悪魔牛と戦う[ref-014]
 int 学術会議
 
 ep: 8
+dec: 隣国の計略
 mood: ライバルの悪事, 戦闘（引き分け）
 mm: 14
 li2 ライバルが活躍するが弱みを見せる[ref-015]
@@ -71,87 +79,107 @@ li3 ヴァズダが魔物を召喚する
 li1 ヴァズダと会う
 
 ep: 9
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 10
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 11
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 12
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 13
+dec: 
 mood: 
 mm: 
 水着回
 
 ep: 14
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 15
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 16
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 17
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 18
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 19
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 20
+dec: 
 mood: 
 mm: 
 li1 
 
 ep: 21
+dec: 
 mood: 
 mm: 
 li1 
+li3 隣国の軍が貴族領に入る
 
 ep: 22
+dec: 戦いの幕開け
 mood: 
 mm: 
 li1 
+lov 関係の進展
+li3 貴族と隣国の混成軍が迫る
+li4 ヴァズダの手下と戦う
 
 ep: 23
+dec: 貴族と隣国の混成軍を追い返す
+mood: 
+mm: 
+li1 王女の受難（悪魔公爵の淫紋）
+
+ep: 24
+dec: 悪魔公爵との戦い
 mood: 
 mm: 
 li1 
 
-ep: 24
-mood: 
-mm: 
-li1 悪魔騒乱[ref-016]
-
 ep: 25
+dec: その後
 mood: 
 mm: 
-ラスト[ref-017]
-
+lov 王女の無事
