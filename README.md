@@ -19,6 +19,14 @@
 - plot/01/outline/precursor.yml:      前駆体
 - plot/01/outline/ref-note.yml:       参照ノート
 
+##### 基本設計
+
+- plot/01/build/bld-001.md: 基本設計 第1章 第1話
+
+##### 詳細プロット
+
+- plot/01/details/det-001.md: 詳細プロット 第1章 第1話
+
 #### マインドマップ
 
 - /Dropbox/simplemind/op74/mm-op74-001.smmx: 現れる
