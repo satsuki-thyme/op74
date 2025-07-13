@@ -1,17 +1,26 @@
-# 
+# タイトル未定
+
 ## 文書
+
 ### 本文
+
 #### 第1章
+
 - text/01/001.txt: タイトル未定
 
 ### プロット
-#### 概要プロット
-- plot/01/outline/note.txt:      ノート
-- plot/01/outline/outline.txt:   概要プロット
-- plot/01/outline/precursor.txt: 前駆体
-- plot/01/outline/ref-note.txt:  参照ノート
+
+#### 第1章
+
+##### 概要
+
+- plot/01/outline/character-base.yml: キャラクターの基本設定
+- plot/01/outline/log.yml:            ログ
+- plot/01/outline/precursor.yml:      前駆体
+- plot/01/outline/ref-note.yml:       参照ノート
 
 #### マインドマップ
+
 - /Dropbox/simplemind/op74/mm-op74-001.smmx: 現れる
 - /Dropbox/simplemind/op74/mm-op74-002.smmx: 模擬戦
 - /Dropbox/simplemind/op74/mm-op74-003.smmx: 魔法の披露
@@ -29,5 +38,15 @@
 - /Dropbox/simplemind/op74/mm-op74-015.smmx: 王都の防備
 
 ### その他
+
 - notes.md: ノート
 - todo.md:  ToDoリスト
+
+### アーカイブ
+
+#### before-2025-07-13
+
+- archive/before-2025-07-13/plot/01/outline/note.txt:      ノート
+- archive/before-2025-07-13/plot/01/outline/outline.txt:   概要プロット
+- archive/before-2025-07-13/plot/01/outline/precursor.txt: 前駆体
+- archive/before-2025-07-13/plot/01/outline/ref-note.txt:  参照ノート
