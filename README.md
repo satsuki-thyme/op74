@@ -27,7 +27,11 @@
 
 - plot/01/details/det-001.md: 詳細プロット 第1章 第1話
 
-#### マインドマップ
+### 計画
+
+- plan/build.md: 初期計画
+
+### マインドマップ
 
 - /Dropbox/simplemind/op74/mm-op74-001.smmx: 現れる
 - /Dropbox/simplemind/op74/mm-op74-002.smmx: 模擬戦

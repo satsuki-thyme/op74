@@ -30,55 +30,55 @@ details:
         inner self that confront (weaknesses):
           大切なものに対する気持ちが強すぎる
         antagonist:
-          _
+          随時登場、最後は邪神
         how to overcome:
-          _
+          なし
         inner change:
-          _
+          なし
         right point:
-          _
+          なし
         wrong point:
-          _
+          なし
     what to do:
       困難を乗り越えることを楽しむ
 
 
-  - dn: 
+  - dn: レイアーティア
     charm:
       title:
-        _
+        芯が強くキリッとしている
       entity:
         predicament:
-          _
+          毅然と立ち向かう
         normaly:
-          _
+          堂々としている
     desire:
       title:
-        _
+        これと決めた人に尽くしたい
       conflict:
-        _
+        これと決めた人が危険な目に遭う
       background connected to desire:
-        _
+        母の姿に憧れた
     plot requirements:
       type:
-        _
+        試練
       contents:
         theme:
-          _
+          これと決めた人を助けられるか
         inner self that confront (weaknesses):
-          _
+          心細さ
         antagonist:
-          _
+          敵
         how to overcome:
-          _
+          己を律する
         inner change:
-          _
+          なし
         right point:
-          _
+          なし
         wrong point:
-          _
+          なし
     what to do:
-      _
+      これと決めた人に尽くすことを貫く
 
 
   - dn: 
