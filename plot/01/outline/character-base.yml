@@ -5,40 +5,40 @@ overview comparison:
 
 ## 詳細
 details:
-  - dn: 
+  - dn: ゼアディスト
     charm:
       title:
-        -
+        自信家
       entity:
         predicament:
-          -
+          絶対の自信は揺るがない
         normaly:
-          -
+          まるで全てを知る者のように絶対の自信で横柄なところがある
     desire:
       title:
-        -
+        国や民を守りたい、より幸福にしたい
       conflict:
-        -
+        敵対者
       background connected to desire:
-        -
+        王子だった国が滅ぼされた
     plot requirements:
       type:
-        -
+        試練
       contents:
-        title:
-          -
+        theme:
+          国と民と大切な人を守れるか
         inner self that confront (weaknesses):
-          -
+          大切なものに対する気持ちが強すぎる
         antagonist:
-          -
+          _
         how to overcome:
-          -
+          _
         inner change:
-          -
+          _
         right point:
-          -
+          _
         wrong point:
-          -
+          _
     what to do:
       困難を乗り越えることを楽しむ
 
@@ -46,76 +46,76 @@ details:
   - dn: 
     charm:
       title:
-        -
+        _
       entity:
         predicament:
-          -
+          _
         normaly:
-          -
+          _
     desire:
       title:
-        -
+        _
       conflict:
-        -
+        _
       background connected to desire:
-        -
+        _
     plot requirements:
       type:
-        -
+        _
       contents:
-        title:
-          -
+        theme:
+          _
         inner self that confront (weaknesses):
-          -
+          _
         antagonist:
-          -
+          _
         how to overcome:
-          -
+          _
         inner change:
-          -
+          _
         right point:
-          -
+          _
         wrong point:
-          -
+          _
     what to do:
-      -
+      _
 
 
   - dn: 
     charm:
       title:
-        -
+        _
       entity:
         predicament:
-          -
+          _
         normaly:
-          -
+          _
     desire:
       title:
-        -
+        _
       conflict:
-        -
+        _
       background connected to desire:
-        -
+        _
     plot requirements:
       type:
-        -
+        _
       contents:
-        title:
-          -
+        theme:
+          _
         inner self that confront (weaknesses):
-          -
+          _
         antagonist:
-          -
+          _
         how to overcome:
-          -
+          _
         inner change:
-          -
+          _
         right point:
-          -
+          _
         wrong point:
-          -
+          _
     what to do:
-      -
+      _
 
 
