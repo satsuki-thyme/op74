@@ -45,10 +45,10 @@
 - /Dropbox/simplemind/op74/mm-op74-014.smmx: ヴァズダの狙い
 - /Dropbox/simplemind/op74/mm-op74-015.smmx: 王都の防備
 
-### その他
+### etc.
 
-- notes.md: ノート
-- todo.md:  ToDoリスト
+- etc/notes.md: ノート
+- etc/todo.md:  ToDoリスト
 
 ### アーカイブ
 
