@@ -1,0 +1,54 @@
+# 詳細プロット 第1章 第2話
+1:
+  declaration: 入城
+  tone: =
+  contents:
+    \noCha = 街の様子とレイアーティアの様子
+    \almar + レイアーティアが少女のようだ
+    \noCha = 城の様子とレイアーティアの様子、ゼアディストの様子
+    \almar + 男の前で素を出すのは初めて見る
+    \noCha = 謁見は翌日
+2:
+  declaration: 謁見前
+  tone: -
+  contents:
+    \noCha = 謁見は朝から、王は勤勉
+    \noCha = 謁見の間の様子、長机
+    \third - ゼアディストの噂話、否定的
+    \third - 王に服すか
+    \third = 王の入場、名前記述アーグレス王、ログナニス・アンスロット・フラウ・ヴァイスエルド
+3:
+  declaration: 謁見
+  tone: +
+  contents:
+    \zeads + 入場、堂々
+    \zeads + 服し、名乗る
+    \third + 貴族の様子、レイアーティアの様子
+    \logna + 礼
+    \zeads = 金
+    \logna + どこから来た何者なのか
+    \zeads = 生まれ落ちた、レイアーティアの証言
+    \logna + この世界に何を望むか
+    \zeads = 過去と欲求
+    \logna + 仕える気はあるか？
+    \third - 反対
+    \logna + 明日能力を見せてもらってから、剣と魔法
+    \logna + 魔法が見えたこと、次からはやんわりね
+    \zeads + 年甲斐もなくはしゃいでしまいました
+    \logna + ドラゴンは、民が驚く
+    \zeads + 遠方で
+    \logna + ひとまず客人として受け入れる、もてなしはレイアーティア
+4:
+  declaration: 謁見後
+  tone: +
+  contents:
+    \layar + 傲慢なのに王に服してくれて助かりました
+    \zeads + 王には傅かねばならない、世の習いだ
+    \layar - 剣は大丈夫？　騎士隊長は強い
+    \zeads + もちろん　あらゆるものを斬り捨ててくれよう
+5:
+  declaration: 謁見
+  tone: +
+  contents:
+    \
+
