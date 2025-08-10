@@ -3,10 +3,13 @@
   declaration: 入城
   tone: =
   contents:
-    \noCha = 街の様子とレイアーティアの様子
+    \noCha = 街の様子
+    \rayar = ゼアディストと相乗りで民衆にどう思われるだろう
+    \third + 王子様！、ご成婚か
+    \rayar = 誤解だと懸命に説明
     \almar + レイアーティアが少女のようだ
-    \noCha = 城の様子とレイアーティアの様子、ゼアディストの様子
-    \almar + 男の前で素を出すのは初めて見る
+    \noCha = 城の様子
+    \rayar = 気分はやつれていたが凜と入城
     \noCha = 謁見は翌日
 2:
   declaration: 謁見前
@@ -42,13 +45,8 @@
   declaration: 謁見後
   tone: +
   contents:
-    \layar + 傲慢なのに王に服してくれて助かりました
+    \rayar + 傲慢なのに王に服してくれて助かりました
     \zeads + 王には傅かねばならない、世の習いだ
-    \layar - 剣は大丈夫？　騎士隊長は強い
+    \rayar - 剣は大丈夫？　騎士隊長は強い
     \zeads + もちろん　あらゆるものを斬り捨ててくれよう
-5:
-  declaration: 謁見
-  tone: +
-  contents:
-    \
-
+    \rayar = 模擬戦だからね……
