@@ -29,6 +29,10 @@
 
 - plan/build.md: 初期計画
 
+### 思考ノート
+
+- thinking-notes/thi-001.md: アーグレス王国の紋章
+
 ### マインドマップ
 
 - /Dropbox/simplemind/op74/mm-op74-001.smmx: 現れる
