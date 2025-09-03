@@ -1,0 +1,293 @@
+# キャラクター
+summary:
+  - 主人公周り
+    - ゼアディスト
+    - レイアーティア
+    - アルマリア
+  - 王宮
+    - 王                     m ログナス・アンスロット・フラウ・ヴァイスエルド
+    - 第一王妃               f エレニア・ミカ・フラウ・ヴァイスエルド
+    - 第二王妃               f モアーリナ・フィスティ・フラウ・ヴァイスエルド
+    - 第三王妃               f カイネ・フラウ・ヴァイスエルド
+    - 宮中伯                 m ワイギス・メルド・ザールヴェクト
+    - 宰相（俗人書記）       m ヴァスティス・リーズレック・オールドット
+    - 執事（内膳役、献杯役） m ゾイル・マーネンスト・カルミナゼーレ
+    - 軍務長（厩役）         f ネイア・ミルティ・ロアニゼック
+    - 狩猟長                 
+    - 女官長                 
+    - 宮中司教               
+
+    - 侍従長（納戸役）       f リフィティ・ミネア・アンスロヴェイク
+    - 高位女官               
+    - 侍従女官               
+    - 侍祭女官               
+    - 女中                   
+
+
+detail:
+  - group: 主人公周り
+    member:
+
+      - dn: ゼアディスト
+        meta data:
+          role: 主人公
+          applicable chapter: continuous
+        innate nature:
+          full name: ゼアディスト・ヴァイスロード（元 ゼアディスト・アイヴァース・ティル・ローゲンゼイル）
+          nickname: ゼー
+          race: 葦人
+          gender: 男
+          age: 21
+        approximate nature:
+          overview:
+            - 
+            - 
+            - 
+          special skills:
+            - 
+            - 
+            - 
+          forte:
+            - 
+            - 
+            - 
+          weaknesses:
+            - 
+            - 
+            - 
+          secret:
+            - 
+            - 
+            - 
+          hobby:
+            - 
+            - 
+            - 
+          etc:
+            - 
+            - 
+            - 
+        personality:
+          overview:
+            - 
+            - 
+            - 
+            - 
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+      - dn: レイアーティア
+        meta data:
+          role: ヒロイン
+          applicable chapter: continuous
+        innate nature:
+          full name: レイアーティア・エリスロット・フラウ・ヴァイスエルド
+          nickname: レイ
+          race: 葦人
+          gender: 女
+          age: 17
+        approximate nature:
+          overview:
+            - 
+            - 
+            - 
+          special skills:
+            - 
+            - 
+            - 
+          forte:
+            - 
+            - 
+            - 
+          weaknesses:
+            - 
+            - 
+            - 
+          secret:
+            - 
+            - 
+            - 
+          hobby:
+            - 
+            - 
+            - 
+          etc:
+            - 
+            - 
+            - 
+        personality:
+          overview:
+            - 
+            - 
+            - 
+            - 
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+      - dn: アルマリア
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+        approximate nature:
+          overview:
+            - 
+            - 
+            - 
+          special skills:
+            - 
+            - 
+            - 
+          forte:
+            - 
+            - 
+            - 
+          weaknesses:
+            - 
+            - 
+            - 
+          secret:
+            - 
+            - 
+            - 
+          hobby:
+            - 
+            - 
+            - 
+          etc:
+            - 
+            - 
+            - 
+        personality:
+          overview:
+            - 
+            - 
+            - 
+            - 
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+  - group: 
+    member:
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+        approximate nature:
+          overview:
+            - 
+            - 
+            - 
+          special skills:
+            - 
+            - 
+            - 
+          forte:
+            - 
+            - 
+            - 
+          weaknesses:
+            - 
+            - 
+            - 
+          secret:
+            - 
+            - 
+            - 
+          hobby:
+            - 
+            - 
+            - 
+          etc:
+            - 
+            - 
+            - 
+        personality:
+          overview:
+            - 
+            - 
+            - 
+            - 
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
