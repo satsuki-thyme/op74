@@ -29,6 +29,10 @@
 
 - plan/build.md: 初期計画
 
+### 設定
+
+- settings/characters.yml: キャラクター
+
 ### 思考ノート
 
 - thinking-notes/thi-001.md: アーグレス王国の紋章
