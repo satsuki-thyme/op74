@@ -24,6 +24,12 @@
 
 - plot/01/build/bld-001.md: 基本設計 第1章 第1話
 - plot/01/build/bld-002.md: 基本設計 第1章 第2話
+- plot/01/build/bld-003.md: 基本設計 第1章 第3話
+
+##### 詳細プロット
+
+- plot/01/details/det-002.yml: # 詳細プロット 第1章 第2話
+- plot/01/details/det-003.yml: # 詳細プロット 第1章 第3話
 
 ### 計画
 

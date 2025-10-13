@@ -23,7 +23,7 @@ logline:
     \noCha = 謁見は翌日
 2:
   declaration: 謁見前
-  tone: -
+  tone: \-
   contents:
     \noCha = 謁見は朝から、王は勤勉
     \noCha = 謁見の間の様子、長机
