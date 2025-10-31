@@ -42,6 +42,7 @@
 ### 思考ノート
 
 - thinking-notes/thi-001.md: アーグレス王国の紋章
+- thinking-notes/thi-002.md: 魔法剣士の戦い
 
 ### マインドマップ
 
