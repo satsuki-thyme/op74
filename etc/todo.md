@@ -1,7 +1,10 @@
 # ToDoリスト
 
+## ノート
+
 ## 未完
 
-- [p] 魔法剣士の戦い[thi-002]
+- [p] [thi-002] 魔法剣士の戦い
+  - [p] [story-world/world-1/thi-011] 魔法 work location
 
 ## 完了
